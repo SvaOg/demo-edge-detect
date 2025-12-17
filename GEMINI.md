@@ -42,7 +42,4 @@
 **Python Setup:**
 ```bash
 cd training
-uv venv
-source .venv/bin/activate # For Linux/macOS
-.venv\Scripts\activate # For Windows
-uv pip install ultralytics
+uv run training.py
