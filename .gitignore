@@ -34,8 +34,9 @@ models/*
 *.onnx
 
 # Data
-data/dataset/
-data/raw/
+data/
+models/
+runs/
 
 # OS-specific
 .DS_Store
